@@ -1,0 +1,99 @@
+--- # tickers:
+  # Microsoft
+  - MSFT
+  # Apple
+  - AAPL
+  # Barrick Gold
+  - GOLD
+  # TSMC US8740391003
+  - TSM
+  # VANECK ESPORTS ETF IE00BYWQWR46
+  - ESPO
+  # Wisdomtree Gold ETF (BULL). Note the .L for LSE!
+  - BULL.L
+  # ASML Holding # TODO fix this
+  - ASML
+  # Spirax-Sarco Engineering, FTSE 100 # TODO fix
+  - SPX.L
+  # Smurfit Kappa Group, FTSE 100 # TODO fix
+  - SKG.L
+  # Smiths group, FTSE 100 # TODO fix
+  - SMIN.L
+  # Smith & Nephew, FTSE 100
+  - SN.L
+  # Sage group, FTSE 100
+  - SGE.L
+  # Rolls Royce Holdings , FTSE 100
+  - RR.L
+  # Rio Tinto, FTSE 100
+  - RIO.L
+  # Ocado, FTSE 100
+  - OCDO.L
+  # Melrose Industries, FTSE 100
+  - MRO.L
+  # Johnson Matthey, FTSE 100
+  - JMAT.L
+  # Hikma Pharmaceuticals, FTSE 100
+  - HIK.L
+  # Halma, FTSE 100
+  - HLMA.L
+  # Glencore, FTSE 100
+  - GLEN.L
+  # GlaxoSmithKline, FTSE 100
+  - GSK.L
+  # Evraz, FTSE 100
+  - EVR.L
+  # DS Smith, FTSE 100
+  - SMDS.L
+  # Croda INTL., FTSE 100 TODO fix
+  - CRDA.L
+  # BHP Group, FTSE 100 TODO fix
+  - BHP.L
+  # BAE Systems, FTSE 100 PLC TODO fix
+  - BSP.L
+  # AstraZeneca Plc, FTSE 100
+  - AZN.L
+  # Antofagasta, FTSE 100
+  - ANTO.L
+  # Anglo American PLC TODO fix
+  - NGLB.L
+  # Alibaba group holdings
+  - BABA
+  # AMS AG TODO fix
+  - AMS.SW
+  # Corning Inc
+  - GLW
+  # Fujifulm Holdings Group
+  - FJI.MU
+  # First solar
+  - FLSR
+  # Kyocera Corporation
+  - KYOCY
+  # Fujitsu
+  - FJTSY
+  # Hitachi
+  - HTHIY
+  # Nikon
+  - NINOY
+  # Nintendo
+  - NTDOY
+  # Panasonic Corporation TODO fix
+  - PCRFY
+  # Seiko Epson Corporation
+  - SEKEY
+  # Sony Corporation
+  - SNE
+  # Xilinx
+  - XLNX
+  # NVIDIA
+  - NVDA
+  # AMD
+  - AMD
+  # Micron
+  - MU
+
+
+
+  # TODO add Nike?
+  # TODO add Costco? -> what else does costco manage?
+  # TODO unity 3d engine company
